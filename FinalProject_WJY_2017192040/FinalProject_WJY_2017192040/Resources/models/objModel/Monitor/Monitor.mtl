@@ -1,0 +1,143 @@
+newmtl Material.005
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.009
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.010
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.012
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl None
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.011
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.018
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.019
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.014
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.013
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.015
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.016
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png
+newmtl Material.017
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Monitor_Albedo.jpg
+bump Monitor_Height.png
+map_bump Monitor_Normal.png

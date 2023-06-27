@@ -1,0 +1,31 @@
+newmtl black_metal
+Kd 0.192157 0.211765 0.270588
+Ks 0.150000 0.150000 0.150000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd Green.jpg
+
+newmtl white_metal
+Kd 0.545098 0.572549 0.658824
+Ks 0.150000 0.150000 0.150000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd Green.jpg
+
+newmtl handle
+Kd 0.988235 0.984314 0.984314
+Ks 0.150000 0.150000 0.150000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd equalizer1.png
+
+newmtl blade
+Kd 0.752941 0.760784 0.815686
+Ks 0.150000 0.150000 0.150000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd Green.jpg

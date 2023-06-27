@@ -1,0 +1,184 @@
+
+
+newmtl Panel Emission
+Ka 4 3.63919997215271 3.34116005897522
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Light Source Emission
+Ka 4 3.63919997215271 3.34116005897522
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl LED Light Ring Emission
+Ka 4 3.63919997215271 3.34116005897522
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Kino Bulb Emission
+Ka 4 3.63919997215271 3.34116005897522
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl White Fabric Emission
+Ka 4 3.63919997215271 3.34116005897522
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Softbox Emission
+Ka 4 3.63919997215271 3.34116005897522
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+newmtl Panel Emission
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Light Source Emission
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl LED Light Ring Emission
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Kino Bulb Emission
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl White Fabric Emission
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Softbox Emission
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl White Plastic
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Softbox Edge
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl Reflective Umbrella
+Ka 1 1 1
+Kd 0.80000001192093 0.80000001192093 0.80000001192093
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Dull Black Plastic
+Ka 1 1 1
+Kd 0.20000000298023 0.20000000298023 0.20000000298023
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl Dark Metal
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Black Painted Metal
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl Black Fabric
+Ka 1 1 1
+Kd 0.15000000596046 0.15000000596046 0.15000000596046
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Octane Softbox
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl Octane Softbox
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+
+
+newmtl Octane Softbox
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd purple.jpg
+map_Ka purple.jpg
+
+
+newmtl Octane Softbox
+Ka 1 1 1
+Kd 1 1 1
+illum 7
+map_Kd green.jpg
+map_Ka green.jpg
+

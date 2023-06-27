@@ -1,0 +1,88 @@
+newmtl Material.063
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Sci Fi Cross Bridge_Albedo.jpg
+bump Sci Fi Cross Bridge_Height.png
+map_bump Sci Fi Cross Bridge_Normal.png
+newmtl Material.059
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Sci Fi Cross Bridge_Albedo.jpg
+bump Sci Fi Cross Bridge_Height.png
+map_bump Sci Fi Cross Bridge_Normal.png
+newmtl Material.065
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Sci Fi Cross Bridge_Albedo.jpg
+bump Sci Fi Cross Bridge_Height.png
+map_bump Sci Fi Cross Bridge_Normal.png
+newmtl Material.066
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Sci Fi Cross Bridge_Albedo.jpg
+bump Sci Fi Cross Bridge_Height.png
+map_bump Sci Fi Cross Bridge_Normal.png
+newmtl Material.061
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Sci Fi Cross Bridge_Albedo.jpg
+bump Sci Fi Cross Bridge_Height.png
+map_bump Sci Fi Cross Bridge_Normal.png
+newmtl Material.062
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Sci Fi Cross Bridge_Albedo.jpg
+bump Sci Fi Cross Bridge_Height.png
+map_bump Sci Fi Cross Bridge_Normal.png
+newmtl Material.060
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Sci Fi Cross Bridge_Albedo.jpg
+bump Sci Fi Cross Bridge_Height.png
+map_bump Sci Fi Cross Bridge_Normal.png
+newmtl Material.064
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Sci Fi Cross Bridge_Albedo.jpg
+bump Sci Fi Cross Bridge_Height.png
+map_bump Sci Fi Cross Bridge_Normal.png
